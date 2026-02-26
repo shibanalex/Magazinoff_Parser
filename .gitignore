@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+output/
+log/
+debug/
+*.html
+magazinnoff_profile/
+*.xlsx
+*.db
+*.sqlite
+config.py
